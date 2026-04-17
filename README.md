@@ -22,6 +22,15 @@ Loop
 
 ### 🎥 Demo Video
 [Watch Demo](https://drive.google.com/file/d/12bnkMl61msWiE4Re8jE2RSwa2CS6-05d/view?usp=sharing)
+### Submission
+### 👤 Name
+ 1) Naresh Kumar Thodupunoori  
+
+### 🧠 Theme
+2) Binary
+
+### 🔗 Itch.io Link
+[Play the Game]((https://naresh-kumar-thodupunoori.itch.io/bitgrid))
 Participant 1
 
 ### 🧠 Theme
